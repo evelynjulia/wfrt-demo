@@ -6,9 +6,13 @@
 Welcome to wfrt_demo's documentation!
 =====================================
 
+Hello world.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   api
 
 
 
